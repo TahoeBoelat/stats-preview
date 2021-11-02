@@ -23,6 +23,10 @@ body {
   color: hsl(0, 0%, 100%);
   font-family: "Lexend Deca", sans-serif;
 }
+.img {
+  background-color: hsl(277, 64%, 61%);
+  mix-blend-mode: screen;
+}
 span {
   color: hsl(277, 64%, 61%);
 }
