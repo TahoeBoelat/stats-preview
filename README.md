@@ -4,4 +4,4 @@ Hello everyone, this is my second project sollution for Front-End Mentor challan
 
 # Links
 - Solution URL: <a href="https://github.com/TahoeBoelat/stats-preview">Github Repository</a>
-- Live site url: <a href="https://alfi-stats-preview.netlify.app//">Live site url</a>
+- Live site url: <a href="https://alfi-stats-preview.netlify.app/">Live site url</a>
